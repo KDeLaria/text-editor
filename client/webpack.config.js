@@ -36,15 +36,11 @@ module.exports = () => {
             destination: path.join('assets', 'icons'),
           },
         ],
-        //orientation: "portrait",
         fingerprints: false,
         inject: true,
-        // display : "standalone",
         start_url: "./",
         publicPath: './',
         description: "Just Another Text Editor",
-        background_color: "#7eb4e2",
-        theme_color: "#7eb4e2"
       }),
     ],
 
