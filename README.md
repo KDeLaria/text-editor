@@ -1,7 +1,7 @@
 # Text Editor (J.A.T.E. Just Another Text Editor)
 
-[<img src="./screenshot.png">](https://kdelaria-text-editor-90cd26e67332.herokuapp.com/)
-Visit the [Text Editor](https://kdelaria-text-editor-90cd26e67332.herokuapp.com/) webpage.
+[<img src="./screenshot.png">](https://github.com/KDeLaria/note-taker/)
+<!-- Visit the [Text Editor](https://kdelaria-text-editor-90cd26e67332.herokuapp.com/) webpage. -->
 
 ## Description
 
